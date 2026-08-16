@@ -3,6 +3,10 @@
     name     = "rg-23"
     location = "centralindia"
   }
+  rg2 = {
+    name     = "rg-23-1"
+    location = "centralindia"
+  }
  }
   vnet = {
     vnet1 = {
